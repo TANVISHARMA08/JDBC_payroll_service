@@ -13,7 +13,7 @@ public class DBDemo {
 	public static void main(String[] args) {
 		String jdbcURl="jdbc:mysql://localhost:3306/payroll_service?useSSl=false";
 		String userName= "root";
-		String password= "Saket@420";
+		String password= "@Tanvish08";
 		Connection connection;
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
